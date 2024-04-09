@@ -1,6 +1,9 @@
 # Plasma Cutter Torch Height Controller (THC)
 This project develops a standalone Torch Height Controller (THC) for plasma cutting applications, designed to ensure optimal cutting quality by dynamically adjusting the torch height based on the voltage feedback from the cutting arc. Utilizing an Arduino Nano as the core controller, the system integrates with a DRV8825 stepper motor driver to control the Z-axis movement, providing precise height adjustments.
 
+## Brief Introduction
+- [Video](https://www.youtube.com/watch?v=XwwlaE0Dg3c)
+
 ## Key Features
 - Dynamic Height Adjustment: Implements a PID control loop to adjust the torch height in real-time, enhancing cut quality.
 - ADS1115 Integration: Utilizes the ADS1115 ADC for high-precision voltage measurement from the plasma arc, serving as the feedback for the PID controller.
