@@ -39,3 +39,6 @@ The use of this project involves the operation of high-power equipment and poten
 ## Usage Agreement
 By using this project, you acknowledge that you have read and understood this disclaimer, and you agree to be bound by its terms. You assume full responsibility and risk for the assembly, installation, and operation of this THC system.
 
+### Support Us:
+[Patreon](https://patreon.com/SmartCut?utm_medium=unknown&utm_source=join_link&utm_campaign=creatorshare_creator&utm_content=copyLink)
+[Buy me a ☕](https://www.buymeacoffee.com/smartcut)
